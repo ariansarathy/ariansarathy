@@ -22,8 +22,8 @@
 | Software Engineer             | VeriKlick                  | SWE, System Optimization             | 2023-09 - 2023-12     |
 
 ## 🛠️ Projects
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
+| Project | Description | Tech Stack |
+| ------- | ----------- | ---------- |
 | [Real-Time Computer Vision System](https://github.com/ariansarathy/Real-Time-Computer-Vision-System) | Face & object detection achieving sub-50ms inference at 30+ FPS | OpenCV, MediaPipe |
 | [Marvel AI](https://github.com/ariansarathy/Marval-AI-Project) | Personalized AI-powered teaching assistant | HTML |
 
