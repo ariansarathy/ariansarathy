@@ -28,6 +28,7 @@
 | [Marvel AI](https://github.com/ariansarathy/Marval-AI-Project) | Personalized AI-powered teaching assistant | HTML |
 | [Trailure](https://trailure-appp.vercel.app/) | Travel suggestion app | HTML, API |
 | [NetPort-Scanner](https://github.com/ariansarathy/NetPort-Scanner) | Scans for open TCP ports on a given IP address | Python, API |
+| [Neuro-Sound](https://github.com/ariansarathy/Neuro-Sound-Lab) | Neuroscience-inspired web application | JAVA, CSS |
 
 ## 📖 Publication
 - **The Amazing World of Python: Youth Coders Edition**  
