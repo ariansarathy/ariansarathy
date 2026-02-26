@@ -27,6 +27,7 @@
 | [Real-Time Computer Vision System](https://github.com/ariansarathy/Real-Time-Computer-Vision-System) | Face & object detection achieving sub-50ms inference at 30+ FPS | OpenCV, MediaPipe |
 | [Marvel AI](https://github.com/ariansarathy/Marval-AI-Project) | Personalized AI-powered teaching assistant | HTML |
 | [Trailure](https://trailure-appp.vercel.app/) | Travel suggestion app | HTML, API |
+| [NetPort-Scanner](https://github.com/ariansarathy/NetPort-Scanner) | Travel suggestion app | HTML, API |
 
 ## 📖 Publication
 - **The Amazing World of Python: Youth Coders Edition**  
