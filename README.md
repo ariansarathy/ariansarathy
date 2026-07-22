@@ -17,7 +17,6 @@
 | ----------------------------- | -------------------------- | ------------------------------------ | --------------------- |
 | IT Serivce Desk               | Montclair State University | IT Support, Enterprise Infrastructure| 2026-05 - PRESENT     |
 | SWD & Data Analysis           | The Citco Group Limited    | Cloud Data Pipelines, AI Automation  | 2026-02 - PRESENT     |
-| SWD & Data Analysis           | NAM Info Inc               | Full-Stack Analytics, ML             | 2026-02 - PRESENT     |
 | SWD & Gen AI Engineer         | Reality AI Lab             | Generative AI, RAG, LangChain        | 2025-02 - 2026-01     |
 | Software Developer            | Zoetis                     | Database Optimization, Cybersecurity | 2024-07 - 2024-08     |
 | Software Engineer             | VeriKlick                  | SWE, System Optimization             | 2023-09 - 2023-12     |
