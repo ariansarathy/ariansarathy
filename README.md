@@ -2,8 +2,8 @@
 **`Full-Stack Developer & AI Engineer`** 
 
 ## About Me
-- 🔭 I’m currently working on AI-powered data pipelines and analytics solutions at Citco Group & NAM Info Inc
-- 🌱 I’m currently learning Advanced AWS Cloud Architecture | ML | AI systems
+- 🔭 I’m currently working on AI-powered data pipelines and analytics solutions at Citco Group
+- 🌱 I’m currently learning Advanced Cloud Architecture | ML | AI systems
 - 👯 I’m looking to collaborate on Generative AI projects | RAG workflows | Full-stack Web Applications
 - 🤝 I’m looking for help with Advanced ML model optimization
 
