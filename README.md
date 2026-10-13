@@ -15,7 +15,7 @@
 ## 👔 Work Experience
 | Job Position | Company | Focus | Period |
 |---|---|---|---|
-| Student IT Support Specialist | Montclair State University | ServiceNow, Identity Management, Cloud Infrastructure | Apr 2026 - PRESENT |
+| Information Technology Service Division | Montclair State University | ServiceNow, Identity Management, Cloud Infrastructure | Apr 2026 - PRESENT |
 | Software Developer & Data Analyst | The Citco Group Limited | AWS Data Pipelines, AI Automation, Financial Systems | Feb 2026 - Jun 2026 |
 | Software Developer & Gen AI Engineer | Reality AI Lab | Generative AI, RAG Workflows, LangChain, LLM Applications | Feb 2025 - Jan 2026 |
 | Summer Intern | Zoetis | API Architecture, Cybersecurity, Data Analytics | Jul 2024 - Aug 2024 |
@@ -38,14 +38,16 @@ Published on Amazon Kindle Direct Publishing (KDP)
 [Read on Amazon](https://www.amazon.com/dp/B0DXDY733K)
 
 ## 🏅 Certifications
-- Google AI-Powered Shopping Ads Certification
-- Harvard Online: Improving Your Business Through a Culture of Health
-- Alison: Introduction to Programming Using HTML and CSS
+- **Claude Code 101** — Anthropic (Issued Apr 2026, Credential ID: 8tupcy762iry)
+- **Claude 101** — Anthropic (Issued Apr 2026, Credential ID: 8yaqd3uwmse2)
+- **Google AI-Powered Shopping Ads Certification**
+- **Harvard Online: Improving Your Business Through a Culture of Health**
+- **Alison: Introduction to Programming Using HTML and CSS**
 
 ## 📊 GitHub Stats
 [![Arian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariansarathy&show_icons=true&theme=gruvbox)](https://github.com/ariansarathy)
 
 ## 📫 Get in Touch
-- **Email:** [sarathya1@montclair.edu](mailto:sarathya1@montclair.edu)
+- **Email:** [arian.sarathy@gmail.com](mailto:arian.sarathy@gmail.com)
 - **LinkedIn:** [linkedin.com/in/arian-sarathy-1217a5299](https://www.linkedin.com/in/arian-sarathy-1217a5299)
 - **GitHub:** [@ariansarathy](https://github.com/ariansarathy)
