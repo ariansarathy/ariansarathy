@@ -40,9 +40,9 @@ Published on Amazon Kindle Direct Publishing (KDP)
 ## 🏅 Certifications
 - **Claude Code 101** — Anthropic (Issued Apr 2026, Credential ID: 8tupcy762iry)
 - **Claude 101** — Anthropic (Issued Apr 2026, Credential ID: 8yaqd3uwmse2)
-- **Google AI-Powered Shopping Ads Certification**
-- **Harvard Online: Improving Your Business Through a Culture of Health**
-- **Alison: Introduction to Programming Using HTML and CSS**
+- **Google AI-Powered Shopping Ads Certification** (Issued Sep 2023)
+- **Improving Your Business Through a Culture of Health** - Harvard Online 
+- **Introduction to Programming Using HTML and CSS** - Alison (Issued Sep 2023)
 
 ## 📊 GitHub Stats
 [![Arian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariansarathy&show_icons=true&theme=gruvbox)](https://github.com/ariansarathy)
