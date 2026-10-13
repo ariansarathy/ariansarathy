@@ -1,49 +1,51 @@
-# Hey, I'm Arian 👨‍💻<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-**`Full-Stack Developer & AI Engineer`** 
+# Hey, I'm Arian <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+**`Full-Stack Developer & AI Engineer`**
 
 ## About Me
-- 🔭 I’m currently working on AI-powered data pipelines and analytics solutions at Citco Group
-- 🌱 I’m currently learning Advanced Cloud Architecture | ML | AI systems
-- 👯 I’m looking to collaborate on Generative AI projects | RAG workflows | Full-stack Web Applications
-- 🤝 I’m looking for help with Advanced ML model optimization
+- 🔭 Currently working on AI-powered automation and building systems that scale
+- 🌱 Learning advanced cloud architecture, ML systems, and distributed infrastructure
+- 👯 Looking to collaborate on generative AI projects, data pipelines, and full-stack applications
+- 🤝 Interested in roles at the intersection of AI and scalable systems
 
-## 💻 Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=aws,java,git,github,python,typescript,javascript,react,opencv,mysql,html,django,scala,nodejs,figma&theme=light)](https://skillicons.dev)
+## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,cpp,sql,html,css,opencv,git,github,aws&theme=light)](https://skillicons.dev)
 
-## 👔 Work experience
-| Job Position                  | Company                    | Field                                | Work Period           |
-| ----------------------------- | -------------------------- | ------------------------------------ | --------------------- |
-| IT Serivce Desk               | Montclair State University | IT Support, Enterprise Infrastructure| 2026-05 - PRESENT     |
-| SWD & Data Analysis           | The Citco Group Limited    | Cloud Data Pipelines, AI Automation  | 2026-02 - PRESENT     |
-| SWD & Gen AI Engineer         | Reality AI Lab             | Generative AI, RAG, LangChain        | 2025-02 - 2026-01     |
-| Software Developer            | Zoetis                     | Database Optimization, Cybersecurity | 2024-07 - 2024-08     |
-| Software Engineer             | VeriKlick                  | SWE, System Optimization             | 2023-09 - 2023-12     |
+**Additional:** LangChain, LlamaIndex, OpenAI API, PostgreSQL, Redis, Flask, Django, MediaPipe
 
-## 🛠️ Projects
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| [Real-Time Computer Vision System](https://github.com/ariansarathy/Real-Time-Computer-Vision-System) | Face & object detection inference | OpenCV, MediaPipe |
-| [Marvel AI](https://github.com/ariansarathy/Marval-AI-Project) | Personalized AI-powered teaching assistant | HTML |
-| [Trailure](https://trailure-appp.vercel.app/) | Travel suggestion app | HTML, API |
-| [NetPort-Scanner](https://github.com/ariansarathy/NetPort-Scanner) | Scans for open TCP ports on a given IP address | Python, API |
-| [Neuro-Sound](https://github.com/ariansarathy/Neuro-Sound-Lab) | Neuroscience-inspired web application | JAVA, CSS |
+## 👔 Work Experience
+| Job Position | Company | Focus | Period |
+|---|---|---|---|
+| Student IT Support Specialist | Montclair State University | ServiceNow, Identity Management, Cloud Infrastructure | Apr 2026 - PRESENT |
+| Software Developer & Data Analyst | The Citco Group Limited | AWS Data Pipelines, AI Automation, Financial Systems | Feb 2026 - Jun 2026 |
+| Software Developer & Gen AI Engineer | Reality AI Lab | Generative AI, RAG Workflows, LangChain, LLM Applications | Feb 2025 - Jan 2026 |
+| Summer Intern | Zoetis | API Architecture, Cybersecurity, Data Analytics | Jul 2024 - Aug 2024 |
+| Software Engineer | VeriKlick | System Optimization, Performance Enhancement | Sep 2023 - Dec 2023 |
+
+## 🛠️ Featured Projects
+
+| Project | Description | Tech Stack | Status |
+|---|---|---|---|
+| [TideTrack](https://github.com/Rohan-Ananth/attentiontooltest) | Chrome extension with passive tab monitoring and AI Study Coach agent using LLM workflows for personalized focus recommendations | Chrome Extension, Python, Flask, OpenCV, LangChain, React | 🔄 Active |
+| [Brain Tumor Classifier](https://github.com/ariansarathy/Brain-Tumor) | Binary MRI classification using transfer learning and deep neural networks | PyTorch, ResNet-50, Colab, Computer Vision | 🔄 Active |
+| [Neuro-Sound Lab](https://github.com/ariansarathy/Neuro-Sound-Lab) | Neuroscience-inspired web app generating personalized soundscapes based on cognitive and emotional state | React, Web Audio API, JavaScript, Neuroscience | ✅ Complete |
+| [Real-Time Computer Vision System](https://github.com/ariansarathy/Real-Time-Computer-Vision-System) | Face and object detection system with sub-50ms inference and 30+ FPS performance | OpenCV, MediaPipe, Python | ✅ Complete |
 
 ## 📖 Publication
-- **The Amazing World of Python: Youth Coders Edition**  
-  A comprehensive Python guide for young learners — covering fundamentals through AI, web development, and cybersecurity.  
-  Published on *Amazon Kindle Direct Publishing (KDP)*  
-  [Read More](https://www.amazon.com/dp/B0DXDY733K/ref=mp_s_a_1_1?s=books&sr=1-1&text=Arian+Sarathy)
+**The Amazing World of Python: Youth Coders Edition**  
+A comprehensive Python guide for young learners covering fundamentals through AI applications, web development, and cybersecurity.
 
-## 🏅 Certificates
-- *Google* - AI-Powered Shopping ads Certification
-- *Alison* - Introduction to Programming Using HTML and CSS
-- *Harvard Online* - Improving Your Business Through a Culture of Health
+Published on Amazon Kindle Direct Publishing (KDP)  
+[Read on Amazon](https://www.amazon.com/dp/B0DXDY733K)
 
-## 📊 Stats
-[Arian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariansarathy&show_icons=true&theme=gruvbox)
+## 🏅 Certifications
+- Google AI-Powered Shopping Ads Certification
+- Harvard Online: Improving Your Business Through a Culture of Health
+- Alison: Introduction to Programming Using HTML and CSS
 
-## 📫 How to reach me?
-- [![Gmail Badge](https://img.shields.io/badge/-arian.sarathy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arian.sarathy@gmail.com)](mailto:arian.sarathy@gmail.com)
-- [![Linkedin Badge](https://img.shields.io/badge/-ariansarathy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arian-sarathy-1217a5299/)](www.linkedin.com/in/arian-sarathy-1217a5299)
+## 📊 GitHub Stats
+[![Arian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariansarathy&show_icons=true&theme=gruvbox)](https://github.com/ariansarathy)
+
+## 📫 Get in Touch
+- **Email:** [sarathya1@montclair.edu](mailto:sarathya1@montclair.edu)
+- **LinkedIn:** [linkedin.com/in/arian-sarathy-1217a5299](https://www.linkedin.com/in/arian-sarathy-1217a5299)
+- **GitHub:** [@ariansarathy](https://github.com/ariansarathy)
